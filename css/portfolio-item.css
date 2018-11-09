@@ -1,0 +1,31 @@
+/*!
+ * Start Bootstrap - Portfolio Item (https://startbootstrap.com/template-overviews/portfolio-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+#box1{
+  
+  border-right: 5px solid red;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+#box2{
+  border-right: 5px solid blue;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+#box3{
+  border-right: 5px solid yellow;
+  margin-right: 50px;
+  margin-top: 10px;
+}
